@@ -5,18 +5,18 @@
 
 [![](https://visitcount.itsvg.in/api?id=L150n&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://twitter.com/lisonsabu" target="blank"><img src="https://img.shields.io/twitter/follow/lisonsabu?logo=twitter&style=for-the-badge" alt="lisonsabu" /></a> </p>
+<p align="left"> <a href="https://x.com/arun_909_" target="blank"><img src="https://img.shields.io/twitter/follow/arun_909_?logo=twitter&style=for-the-badge" alt="ArunBabu" /></a> </p>
 
 - 🌱 I’m currently learning **Android,Python**
 
-- 👨‍💻 All of my projects are available at [https://lison.netlify.app/](https://lison.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arun909.com](https://arun909.netlify.app/)
 
 - 📫 How to reach me **arunbabu7591@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lisonsabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lisonsabu" height="30" width="40" /></a>
-<a href="https://instagram.com/_l1s0n_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_l1s0n_" height="30" width="40" /></a>
+<a href="https://x.com/arun_909_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arun_909_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_ar._n_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ar._n_" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -29,5 +29,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=L150n&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
